@@ -68,7 +68,7 @@
                                 <!--</li>-->
                                 <li>
                                     <div class="dropdown">
-                                        <a class="cd-dropdown-trigger" href="#0">Shop</a>
+                                        <a data-toggle="dropdown" class="cd-dropdown-trigger dropdown-toggle" href="#0">Shop</a>
                                         <nav class="cd-dropdown">
                                             <h2>Title</h2>
                                             <a href="#0" class="cd-close">Close</a>
